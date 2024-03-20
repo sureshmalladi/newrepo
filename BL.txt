@@ -1,0 +1,27 @@
+09/05:
+>>Compiler is a tool that compiles the source code and converts into machine code and keeps the binary code which can be easily executed by the machine.
+>>Where as the interpreter directly intreprets the source code while executing and executes the code.
+>>High level languages are user friendly and can be easily understood by human, low level languages are machine friendly and they are like instructions to machines based on which the machines performs operations. examples of high level lang are C, JAVA. Examples of low level lang are binary code.
+>>Assemblers translate low level languages into machine code.
+>>3 types of errors
+1. Logic: When program operates incorrectly but do not terminate abnormally. Undesired outputs occur.
+2. Run time errors: A run-time error is an error that takes place during the execution of a program and usually happens because of adverse system parameters or invalid input data.
+3. Compile time error: Rise at compile time before execution. 4 types of compile time errors.
+a. Lexical: Misspelling of identifiers, keywords.
+b. Syntactical: a missing semicolon or unbalanced parenthesis.
+c. Semantical : incompatible value assignment or type mismatches between operator and operand.
+d. Logical : code not reachable, infinite loop.
+10/05: 
+>>Some key features of programming languages:
+>Syntax: The specific rules and structure used to write code in a programming language.
+>Data Types: The type of values that can be stored in a program, such as numbers, strings, and booleans.
+>Variables: Named memory locations that can store values.
+>Operators: Symbols used to perform operations on values, such as addition, subtraction, and comparison.
+>Control Structures: Statements used to control the flow of a program, such as if-else statements, loops, and function calls.
+>Libraries and Frameworks: Collections of pre-written code that can be used to perform common tasks and speed up development.
+>Paradigms: The programming style or philosophy used in the language, such as procedural, object-oriented, or functional.
+11/05:
+Basic terminologies in Programming lang:
+>Algorithm: A step by step procedure for solving a problem or doing a task.
+>Function: A self contained block of code that performs a task and can be called from other parts of prpog
+
